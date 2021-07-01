@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "318862936397",
+    "project_id": "private-chat-5483f",
+    "storage_bucket": "private-chat-5483f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318862936397:android:7b1dafda846ca156da4f04",
+        "android_client_info": {
+          "package_name": "com.mixapplications.private_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318862936397-867rb12s757iubv5bd9pi02552c5565u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mixapplications.private_chat",
+            "certificate_hash": "d28619ea884cc5cd599a5ed3f4b6b83518436191"
+          }
+        },
+        {
+          "client_id": "318862936397-c86cbfogndl1pelbnbbbtbrrivbcbrfn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIxsr7gJHOnHoURGP3c2KQH4Bd0_W9YEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318862936397-c86cbfogndl1pelbnbbbtbrrivbcbrfn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
